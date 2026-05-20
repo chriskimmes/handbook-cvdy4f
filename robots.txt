@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chriskimmes.github.io/handbook-cvdy4f/sitemap.xml
